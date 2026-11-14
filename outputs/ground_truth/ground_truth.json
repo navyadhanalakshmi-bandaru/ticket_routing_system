@@ -1,0 +1,32 @@
+[
+  {
+    "anomaly_id": "ANM-000001",
+    "ticket_id": "TKT-2026-019036",
+    "scenario_name": "agent_over_capacity",
+    "expected_issue": "Agent exceeds concurrent capacity of 5."
+  },
+  {
+    "anomaly_id": "ANM-000002",
+    "ticket_id": "TKT-2026-005352",
+    "scenario_name": "sla_ignores_channel_calendar",
+    "expected_issue": "SLA deadline does not account for channel business hours."
+  },
+  {
+    "anomaly_id": "ANM-000003",
+    "ticket_id": "TKT-2026-021053",
+    "scenario_name": "reopened_ticket_loses_history",
+    "expected_issue": "Reopened ticket has lost its previous lifecycle events."
+  },
+  {
+    "anomaly_id": "ANM-000004",
+    "ticket_id": "TKT-2026-022931",
+    "scenario_name": "transfer_loop",
+    "expected_issue": "Ticket repeatedly transfers between the same two agents."
+  },
+  {
+    "anomaly_id": "ANM-000005",
+    "ticket_id": "TKT-2026-002229",
+    "scenario_name": "priority_contradicts_safety_rule",
+    "expected_issue": "Safety-related ticket has Low priority instead of Critical."
+  }
+]

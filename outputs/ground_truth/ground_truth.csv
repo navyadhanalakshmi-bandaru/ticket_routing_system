@@ -1,0 +1,6 @@
+﻿anomaly_id,ticket_id,scenario_name,expected_issue
+ANM-000001,TKT-2026-019036,agent_over_capacity,Agent exceeds concurrent capacity of 5.
+ANM-000002,TKT-2026-005352,sla_ignores_channel_calendar,SLA deadline does not account for channel business hours.
+ANM-000003,TKT-2026-021053,reopened_ticket_loses_history,Reopened ticket has lost its previous lifecycle events.
+ANM-000004,TKT-2026-022931,transfer_loop,Ticket repeatedly transfers between the same two agents.
+ANM-000005,TKT-2026-002229,priority_contradicts_safety_rule,Safety-related ticket has Low priority instead of Critical.

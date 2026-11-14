@@ -1,0 +1,107 @@
+{
+  "sla_compliance": {
+    "overall": {
+      "met": 18069,
+      "total": 30000,
+      "rate_pct": 60.23
+    },
+    "by_priority": {
+      "Critical": {
+        "met": 2654,
+        "total": 7333,
+        "rate_pct": 36.19
+      },
+      "High": {
+        "met": 1622,
+        "total": 3957,
+        "rate_pct": 40.99
+      },
+      "Low": {
+        "met": 7058,
+        "total": 7058,
+        "rate_pct": 100.0
+      },
+      "Medium": {
+        "met": 6735,
+        "total": 11652,
+        "rate_pct": 57.8
+      }
+    },
+    "by_channel": {
+      "1": {
+        "met": 6226,
+        "total": 7576,
+        "rate_pct": 82.18
+      },
+      "2": {
+        "met": 2802,
+        "total": 7377,
+        "rate_pct": 37.98
+      },
+      "3": {
+        "met": 6064,
+        "total": 7392,
+        "rate_pct": 82.03
+      },
+      "4": {
+        "met": 2977,
+        "total": 7655,
+        "rate_pct": 38.89
+      }
+    }
+  },
+  "routing": {
+    "tickets": 30000,
+    "assigned": 30000,
+    "assigned_pct": 100.0,
+    "tickets_with_transfers": 1,
+    "transfer_rate_pct": 0.0
+  },
+  "utilisation": {
+    "agents": 100,
+    "total_capacity": 588,
+    "active_tickets": 143,
+    "utilisation_pct": 24.32,
+    "agents_over_capacity": 1,
+    "top_loaded": [
+      {
+        "agent_id": "AGT-000001",
+        "active": 6,
+        "capacity": 5
+      },
+      {
+        "agent_id": "AGT-000023",
+        "active": 4,
+        "capacity": 5
+      },
+      {
+        "agent_id": "AGT-000043",
+        "active": 4,
+        "capacity": 5
+      },
+      {
+        "agent_id": "AGT-000072",
+        "active": 4,
+        "capacity": 5
+      },
+      {
+        "agent_id": "AGT-000015",
+        "active": 3,
+        "capacity": 4
+      }
+    ]
+  },
+  "status": {
+    "closed": 7371,
+    "in_progress": 70,
+    "pending_customer": 36,
+    "queued": 36,
+    "reopened": 1,
+    "resolved": 22486
+  },
+  "breaches_by_priority": {
+    "Critical": 4679,
+    "High": 2335,
+    "Medium": 4917
+  }
+}
