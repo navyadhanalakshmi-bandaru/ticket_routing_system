@@ -161,12 +161,12 @@ def inject_anomalies(transactions, master_data):
 
     # ------------------------------------------------------------------
     # 4. Transfer loop between two agents
+    # IDs follow the brief: ASN-<ticket-id>-NNN
     # ------------------------------------------------------------------
     ticket = next(t for t in ordered if t["ticket_id"] not in used)
 
     agent_a = agents[0]["agent_id"]
     agent_b = agents[1]["agent_id"]
-    number = ticket["ticket_id"][-6:]
 
     transfers = [
         (agent_a, agent_b),
@@ -176,7 +176,7 @@ def inject_anomalies(transactions, master_data):
 
     for index, (source, destination) in enumerate(transfers, start=2):
         transactions["assignment_events"].append({
-            "assignment_event_id": f"ASN-{number}-{index:03d}",
+            "assignment_event_id": f"ASN-{ticket['ticket_id']}-{index:03d}",
             "ticket_id": ticket["ticket_id"],
             "from_agent_id": source,
             "to_agent_id": destination,
