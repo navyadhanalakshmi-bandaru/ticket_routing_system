@@ -5,3 +5,5 @@ __pycache__/
 outputs/*.bak
 outputs/*.db
 .vscode/
+outputs/csv/
+outputs/json/
