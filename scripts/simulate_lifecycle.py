@@ -12,7 +12,7 @@ from config.settings import END_DATE
 from services.anomaly_detector import DEFAULT_DB_PATH
 from services.sla_engine import ESCALATION_AFTER, escalate_ticket
 
-ENABLE_REOPENINGS = True            # set False if reopenings cause capacity false positives
+ENABLE_REOPENINGS = False            # set False if reopenings cause capacity false positives
 REOPEN_PRIORITIES = ("Critical", "High")
 REOPEN_AFTER_MIN = 60               # customer reopens 60 min after resolution
 REWORK_MIN = {"Critical": 120, "High": 240}
