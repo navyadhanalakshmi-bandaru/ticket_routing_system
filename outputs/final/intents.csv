@@ -1,0 +1,10 @@
+intent_id,intent_name,description,default_priority,is_safety_related
+1,Billing,Billing and payment questions,Medium,0
+2,Technical Support,Technical problems,High,0
+3,Account Access,Account access issues,High,0
+4,Refund,Refund requests,Medium,0
+5,Delivery,Delivery and shipment,Medium,0
+6,Cancellation,Cancellation requests,Medium,0
+7,Product Information,Product questions,Low,0
+8,Security Incident,Account security incidents,Critical,1
+9,Fraud Report,Suspected fraudulent activity,Critical,1

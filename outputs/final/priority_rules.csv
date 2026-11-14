@@ -1,0 +1,10 @@
+priority_rule_id,rule_name,intent_id,customer_tier,channel_id,priority,priority_floor,rule_order,is_active
+1,Billing default rule,1,,,Medium,,1,1
+2,Technical Support default rule,2,,,High,,1,1
+3,Account Access default rule,3,,,High,,1,1
+4,Refund default rule,4,,,Medium,,1,1
+5,Delivery default rule,5,,,Medium,,1,1
+6,Cancellation default rule,6,,,Medium,,1,1
+7,Product Information default rule,7,,,Low,,1,1
+8,Security Incident default rule,8,,,Critical,Critical,1,1
+9,Fraud Report default rule,9,,,Critical,Critical,1,1

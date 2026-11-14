@@ -1,0 +1,98 @@
+{
+  "agent_languages": {
+    "rows": 380,
+    "sha256": "08a1066050ea8f8e8168de7ea472858cef006ff94c59045b7551a2eee8ceabef"
+  },
+  "agent_shifts": {
+    "rows": 575,
+    "sha256": "7a98d8dc79a9ea3429ee13a53b8eab590cdd2ee9ed08712afa1a35008743db0f"
+  },
+  "agent_skills": {
+    "rows": 480,
+    "sha256": "f84988b8db98fc7f4e41461310a609b5838fd9a8690a2cac1209881097df9a55"
+  },
+  "agents": {
+    "rows": 100,
+    "sha256": "be4c8bb100fb80e03c14d0587553a87618222c83bdb3ef6e8d2cc4de1a2e4149"
+  },
+  "anomaly_labels": {
+    "rows": 5,
+    "sha256": "7d549185274cb4140c7124b4e5d1a0021577dd9bfd01771929c2cb59c73acb03"
+  },
+  "assignment_events": {
+    "rows": 30003,
+    "sha256": "b59a7aeec1dc2c6d7fd13454a1bb27076f25e5c4a9e2cb5963a0430981bea144"
+  },
+  "business_calendars": {
+    "rows": 4,
+    "sha256": "881960269c909ff5e50c2c75584430f23ed8e377e30ea5d5c960f5cd862699e2"
+  },
+  "calendar_holidays": {
+    "rows": 0,
+    "sha256": "d9b4a7af0e7820a278c12285c8e19f65520c2a056d8e2035ff43a9ce0a31ad21"
+  },
+  "channel_calendars": {
+    "rows": 4,
+    "sha256": "51aa8cb35ef33cf17a676993da7c4d6dc51700ca3267815aeff3a8f8fa676ef7"
+  },
+  "channels": {
+    "rows": 4,
+    "sha256": "aa7fd5588a720dbac551a2260a86b46d90d73a6bc751333d605f02bb72afc37b"
+  },
+  "customers": {
+    "rows": 10000,
+    "sha256": "5e0e054f2257ed71769788481bcf3c4205aa5219709fed1af75ff4e3e3f890c5"
+  },
+  "intents": {
+    "rows": 9,
+    "sha256": "0b6a81532385a9276d49832d11ff8f0da1f42cd8dfd0e69d8341a08ec5a6a160"
+  },
+  "languages": {
+    "rows": 7,
+    "sha256": "cc6fd8a2fcaeae61a88f3115122b2f5307d3e3347325c8dc91dc221f74a0cdf0"
+  },
+  "messages": {
+    "rows": 100000,
+    "sha256": "12451dc9846f7202e93908e23b3528b102f87517baf709044f625bc8c8055fdd"
+  },
+  "priority_rules": {
+    "rows": 9,
+    "sha256": "489baa17a17200483fa3cc71dc4d3f080dbfd4cc07c902c363139aeb0fbeb3db"
+  },
+  "queue_intents": {
+    "rows": 12,
+    "sha256": "b172f6c9b6330dea2f52283c56cff7a637f5c7fa70a6a4dd50fb8844045f5224"
+  },
+  "queues": {
+    "rows": 6,
+    "sha256": "989ea98062a93058f5708bbd4e7d98f79176a352289907a3edd4f8d8b8afeb54"
+  },
+  "resolutions": {
+    "rows": 29858,
+    "sha256": "583e898ba743e8b4d3c2c19ffcab4acbe92c8c162c1b4d10a934fc43b9b84129"
+  },
+  "skill_intents": {
+    "rows": 17,
+    "sha256": "83c1ccec9a9d99c61fa41e375e13d187fc221d53f89b231057da4daf3764880b"
+  },
+  "skills": {
+    "rows": 8,
+    "sha256": "c355fd803e057fa1ff656d921f254765efcfc2817228230ac6318b9d4e37c709"
+  },
+  "sla_events": {
+    "rows": 60000,
+    "sha256": "c4701b0277681f39b8b99f24693270da7171cde3436a4aa4aec79d5bc488b27a"
+  },
+  "sla_policies": {
+    "rows": 16,
+    "sha256": "351e4053f2e826e9cad2bb71ffa4439236b42d63a3617eba16efe253cce89122"
+  },
+  "ticket_events": {
+    "rows": 59998,
+    "sha256": "7c6a97001893492d7d9d90442b3f39d0fe7c6d5fa0c1761c0d6a318e21dce8ef"
+  },
+  "tickets": {
+    "rows": 30000,
+    "sha256": "7d28e52a07e1805944d65a300627b708a00d41a2780cb04f3ed17ef97fb118a8"
+  }
+}

@@ -1,0 +1,17 @@
+sla_policy_id,policy_name,priority,channel_id,response_minutes,resolution_minutes,calendar_id,is_active
+1,Critical email SLA,Critical,1,5,60,1,1
+2,High email SLA,High,1,15,240,1,1
+3,Medium email SLA,Medium,1,60,1440,1,1
+4,Low email SLA,Low,1,240,4320,1,1
+5,Critical chat SLA,Critical,2,5,60,2,1
+6,High chat SLA,High,2,15,240,2,1
+7,Medium chat SLA,Medium,2,60,1440,2,1
+8,Low chat SLA,Low,2,240,4320,2,1
+9,Critical phone SLA,Critical,3,5,60,3,1
+10,High phone SLA,High,3,15,240,3,1
+11,Medium phone SLA,Medium,3,60,1440,3,1
+12,Low phone SLA,Low,3,240,4320,3,1
+13,Critical web SLA,Critical,4,5,60,4,1
+14,High web SLA,High,4,15,240,4,1
+15,Medium web SLA,Medium,4,60,1440,4,1
+16,Low web SLA,Low,4,240,4320,4,1

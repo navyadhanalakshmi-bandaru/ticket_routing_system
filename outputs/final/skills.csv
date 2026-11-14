@@ -1,0 +1,9 @@
+skill_id,skill_name,description
+1,Billing Support,Handles billing support cases
+2,Technical Troubleshooting,Handles technical troubleshooting cases
+3,Account Management,Handles account management cases
+4,Refund Processing,Handles refund processing cases
+5,Delivery Support,Handles delivery support cases
+6,Security Investigation,Handles security investigation cases
+7,Customer Communication,Handles customer communication cases
+8,Product Knowledge,Handles product knowledge cases

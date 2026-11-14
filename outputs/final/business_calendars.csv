@@ -1,0 +1,5 @@
+calendar_id,calendar_name,timezone,monday_open,monday_close,tuesday_open,tuesday_close,wednesday_open,wednesday_close,thursday_open,thursday_close,friday_open,friday_close,saturday_open,saturday_close,sunday_open,sunday_close
+1,Email Calendar,Asia/Kolkata,09:00,17:00,09:00,17:00,09:00,17:00,09:00,17:00,09:00,17:00,09:00,13:00,,
+2,Chat Calendar,Asia/Kolkata,00:00,23:59,00:00,23:59,00:00,23:59,00:00,23:59,00:00,23:59,00:00,23:59,00:00,23:59
+3,Phone Calendar,Asia/Kolkata,09:00,17:00,09:00,17:00,09:00,17:00,09:00,17:00,09:00,17:00,09:00,13:00,,
+4,Web Calendar,Asia/Kolkata,00:00,23:59,00:00,23:59,00:00,23:59,00:00,23:59,00:00,23:59,00:00,23:59,00:00,23:59
