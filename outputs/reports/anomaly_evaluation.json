@@ -1,11 +1,11 @@
 {
   "agent_over_capacity": {
     "tp": 1,
-    "fp": 0,
+    "fp": 107,
     "fn": 0,
-    "precision": 1.0,
+    "precision": 0.0093,
     "recall": 1.0,
-    "f1": 1.0
+    "f1": 0.0183
   },
   "priority_contradicts_safety_rule": {
     "tp": 1,
@@ -41,10 +41,10 @@
   },
   "OVERALL": {
     "tp": 5,
-    "fp": 0,
+    "fp": 107,
     "fn": 0,
-    "precision": 1.0,
+    "precision": 0.0446,
     "recall": 1.0,
-    "f1": 1.0
+    "f1": 0.0855
   }
 }

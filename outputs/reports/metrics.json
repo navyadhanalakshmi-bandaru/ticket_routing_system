@@ -70,24 +70,24 @@
         "capacity": 5
       },
       {
-        "agent_id": "AGT-000023",
-        "active": 4,
-        "capacity": 5
-      },
-      {
-        "agent_id": "AGT-000043",
-        "active": 4,
-        "capacity": 5
-      },
-      {
-        "agent_id": "AGT-000072",
-        "active": 4,
-        "capacity": 5
-      },
-      {
         "agent_id": "AGT-000015",
         "active": 3,
         "capacity": 4
+      },
+      {
+        "agent_id": "AGT-000029",
+        "active": 3,
+        "capacity": 4
+      },
+      {
+        "agent_id": "AGT-000013",
+        "active": 4,
+        "capacity": 6
+      },
+      {
+        "agent_id": "AGT-000005",
+        "active": 3,
+        "capacity": 5
       }
     ]
   },
